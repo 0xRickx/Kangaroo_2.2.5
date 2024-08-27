@@ -1,0 +1,29 @@
+
+# 2024-08-27 01:19:52.183058
++/add Backup.cpp Constants.h HashTable.cpp HashTable.h Kangaroo.cpp Kangaroo.h Merge.cpp PartMerge.cpp Thread.cpp                                                                                                                                                                        
++
+
+# 2024-08-27 01:20:36.998834
++modify Merge.cpp to be able to merge workfiles generated , workfiles have multikeys and work did by kangaroo algo
+
+# 2024-08-27 01:20:53.471397
++/quit
+
+# 2024-08-27 01:21:26.070863
++/add Backup.cpp Constants.h HashTable.cpp HashTable.h Kangaroo.cpp Kangaroo.h Merge.cpp PartMerge.cpp Thread.cpp                                                                                                                                                                        
++
+
+# 2024-08-27 01:21:30.734755
++modify Merge.cpp to be able to merge workfiles generated , workfiles have multikeys and work did by kangaroo algo
+
+# 2024-08-27 01:52:49.906242
++/tokens
+
+# 2024-08-27 01:54:32.418181
++/models groq
+
+# 2024-08-27 01:54:43.482258
++/model groq/llama-3.1-8b-instant
+
+# 2024-08-27 01:54:48.530334
++modify Merge.cpp to be able to merge workfiles generated , workfiles have multikeys and work did by kangaroo algo
